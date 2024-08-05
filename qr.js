@@ -59,10 +59,10 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Venocyber_Tech.sendMessage(Qr_Code_By_Venocyber_Tech.user.id, { text: '' + b64data });
 	
 				   let VENOCYBER_MD_TEXT = `
-*_Qr Code By Venocyber Tech_*
+*_Qr Code By joel Tech_*
 *_Made With 🤍_*
 ______________________________________
-*_Pair Code Connected by Venocyber Tech_*
+*_Pair Code Connected by joel Tech_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
@@ -90,7 +90,7 @@ _Don't Forget To Give Star To My Repo_`
 					return await removeFile("temp/" + id);
 				} else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
 					await delay(10000);
-					VENOCYBER_MD_QR_CODE();
+					JOEL_MD_QR_CODE();
 				}
 			});
 		} catch (err) {
@@ -103,6 +103,6 @@ _Don't Forget To Give Star To My Repo_`
 			await removeFile("temp/" + id);
 		}
 	}
-	return await VENOCYBER_MD_QR_CODE()
+	return await JOEL_MD_QR_CODE()
 });
 module.exports = router
