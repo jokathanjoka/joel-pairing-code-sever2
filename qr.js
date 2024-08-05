@@ -60,23 +60,23 @@ router.get('/', async (req, res) => {
 	
 				   let VENOCYBER_MD_TEXT = `
 *_Qr Code By joel Tech_*
-*_Made With 🤍_*
+*_Made With 🕷️_*
 ______________________________________
 *_Pair Code Connected by joel Tech_*
-*_Made With 🤍_*
+*_Made With 🕷️_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN VENOCYBER-MD 』*
+║ *『 WOW YOU HAVE CHOSEN JOEL-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
-║❒ *Owner:* _https://wa.me/message/A4QG2JZKBXFTN1_
-║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l_
-║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
+║❒ *welcome:* _to joel helping center_
+║❒ *Owner:* _https://wa.link/i5vjax_
+║❒ *Repo:* _https://github.com/joeljamestech/JOEL-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/GxlcVwkXrPo2YwNoQI5TwS_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M_
+║❒ *Plugins:* _https://github.com/joeljamestech/JOEL-MD_
 ╚══════════════════════╝ 
 _____________________________________
 	
